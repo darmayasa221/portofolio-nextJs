@@ -1,0 +1,12 @@
+.left_side {
+  flex-grow: 1;
+  max-width: 30%;
+  display: flex;
+  flex-direction: column;
+}
+
+@media screen and (max-width: 768px) {
+  .left_side {
+    max-width: unset;
+  }
+}

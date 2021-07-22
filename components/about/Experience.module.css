@@ -1,0 +1,53 @@
+.education,
+.experience,
+.bootcamp {
+  padding: 10px 10px;
+}
+
+.experience {
+  background: rgb(236, 236, 236);
+
+}
+
+.bootcamp {
+  background: white;
+}
+
+.education h2,
+.experience h2,
+.bootcamp h2 {
+  font-family: 'Open Sans', sans-seri;
+  color: black;
+  text-align: center;
+}
+
+.education hr,
+.experience hr,
+.bootcamp hr {
+  width: 30%;
+}
+
+.about_experience {
+  font-family: 'Open Sans', sans-seri;
+}
+
+.about_experience h5 {
+  text-transform: uppercase;
+  color: #aaaa;
+  padding: 0;
+  margin: 0;
+}
+
+.about_experience h4 {
+  font-size: 20px;
+  color: #555;
+  padding: 15px 0 0 0;
+  margin: 0;
+}
+
+.about_experience p {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #555;
+  padding: 0;
+  margin: 0;
+}

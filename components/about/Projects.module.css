@@ -1,0 +1,50 @@
+.about_project {
+  padding: 10px 10px;
+}
+
+.about_project h2 {
+  font-family: 'Open Sans', sans-seri;
+  color: black;
+  text-align: center;
+}
+
+.about_project hr {
+  width: 30%;
+}
+
+.about_projects {
+  font-family: 'Open Sans', sans-seri;
+}
+
+.about_projects h5 {
+  font-style: italic;
+  color: #aaaa;
+  padding: 0;
+  margin: 0;
+}
+
+.about_projects h4 {
+  font-size: 20px;
+  color: #555;
+  padding: 15px 0 0 0;
+  margin: 0;
+}
+
+.about_projects p {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #555;
+  padding: 0;
+  margin: 0;
+}
+
+.about_projects a {
+  text-decoration: none;
+  color: #555;
+  transition: 0.2s;
+}
+
+.about_projects a:hover {
+  text-decoration: none;
+  color: rgb(99, 166, 255);
+  transition: 0.2s;
+}
