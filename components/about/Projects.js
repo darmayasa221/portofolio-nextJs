@@ -26,12 +26,12 @@ const Projects = () => {
         <h4><cite>Book Self Rest API</cite></h4>
         <h5>Github : <a target='_blank' rel="noreferrer" href='https://github.com/darmayasa221/bookshelf-API-NodeJS-hapi'>https://github.com/darmayasa221/bookshelf-API-NodeJS-hapi</a></h5>
         <h5>Github : <a target='_blank' rel="noreferrer" href='https://github.com/darmayasa221/bookshelf-API'>https://github.com/darmayasa221/bookshelf-API</a></h5>
-        <p>Create an API using Node Js with the Hapi Framework and ExpressJs which has CRUD features on the GET, POST, UPDATE methods</p>
+        <p>Create an API using Node Js with the Hapi Framework and ExpressJs which has CRUD features.</p>
       </div>
       <div className={ about_projects }>
         <h4><cite>Food Store</cite></h4>
         <h5>Github : <a target='_blank' rel="noreferrer" href='https://github.com/darmayasa221/food-store'>https://github.com/darmayasa221/food-store</a></h5>
-        <p>Create an Webisite Using ReactJS and Powerfull State Management and Perpormance</p>
+        <p>Create an Website Using ReactJS and Power full State Management and Performance</p>
       </div>
       <div className={ about_projects }>
         <h4><cite>Soket IO Client Server Chat APP</cite></h4>
