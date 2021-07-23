@@ -5,7 +5,7 @@ const DarmaYasa = () => {
     <div className={ classes.page_darma }>
       <h3>Hi...</h3>
       <h1>I Made Darma Yasa</h1>
-      <h4> Cloud Engginer & Front-end Developer </h4>
+      <h4> Cloud Engineer & Front-end Developer </h4>
       <hr/>
       <h1>Summary</h1>
       <p>
